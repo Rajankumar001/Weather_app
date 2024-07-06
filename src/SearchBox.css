@@ -1,0 +1,29 @@
+.search_section{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    height: 80px;
+    gap: 10px;
+    padding-left: 22%;
+    
+}
+
+.button_section{
+    height: 55px;
+    width: 100px;
+    margin-left: 30px;
+}
+@media (max-width:600px) {
+    .search_section{
+        width: 320px;
+        height: 60px;
+    }
+    .button_section{
+        height: 55px;
+        width: 70px;
+        margin-left: 10px;
+    }
+    
+}

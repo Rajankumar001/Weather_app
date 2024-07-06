@@ -1,0 +1,18 @@
+.heading_content{
+    height: 60px;
+    width: 500px;
+    border: none;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: skyblue;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.weather_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
